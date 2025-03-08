@@ -1,0 +1,17 @@
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\bin\Release\net8.0-windows\Wall-Change.exe
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\bin\Release\net8.0-windows\Wall-Change.deps.json
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\bin\Release\net8.0-windows\Wall-Change.runtimeconfig.json
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\bin\Release\net8.0-windows\Wall-Change.dll
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\bin\Release\net8.0-windows\Wall-Change.pdb
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\WallpaperChanger.Form1.resources
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall_Change.Properties.Resources.resources
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.csproj.GenerateResource.cache
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.AssemblyInfoInputs.cache
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.AssemblyInfo.cs
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.csproj.CoreCompileInputs.cache
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.dll
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\refint\Wall-Change.dll
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.pdb
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\Wall-Change.genruntimeconfig.cache
+C:\Users\zyssa\source\repos\Wall-Change\Wall-Change\obj\Release\net8.0-windows\ref\Wall-Change.dll
