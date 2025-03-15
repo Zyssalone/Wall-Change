@@ -1,7 +1,6 @@
 # 🌄 WallpaperChanger
 A lightweight and simple Windows application that automatically changes your desktop wallpaper at set intervals. Designed to be efficient, user-friendly, and feature-packed for your convenience.
 ---
-![WallChange](WallChange.png)
 ## 🚀 Features
 ✅ Change wallpapers automatically on a timer  
 ✅ Supports popular image formats: `.jpg`, `.png`, `.bmp`, `.gif`  
